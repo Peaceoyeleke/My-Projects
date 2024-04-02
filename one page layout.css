@@ -1,0 +1,26 @@
+*{
+    background-color: purple;
+}
+div, h2,ul,li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    color:lightblue;
+    font-size: x-large;
+}
+
+h1{
+    color: paleturquoise ;
+    border: 2px solid black;
+    border-radius: 2px;
+    padding: 2px;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    font-style: initial;
+    font-size:xx-large;
+}
+table,td,th{
+    padding: 30px;
+    text-align: left;
+    font-size: 18px;
+}

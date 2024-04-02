@@ -1,0 +1,23 @@
+*{
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+}
+header{
+    color: royalblue;
+    text-align: left;
+    padding: 2px;
+    margin: auto;
+}
+nav ul{
+    color: aquamarine;
+}
+a{
+    color: blueviolet;
+}
+a:hover{
+    color: beige;
+}
+@media (max-width:600px) {
+*{background-color: blue;}
+}
